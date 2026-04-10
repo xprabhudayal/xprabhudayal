@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Prabhu 👋
 
-<!--
-**xprabhudayal/xprabhudayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer @ [Nutun](https://nutun.com/) 🇿🇦
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice%20AI-1C3C3C?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Building real-time conversational agents in production.
+
+My top projects :
+
+- [grand-plaza](https://github.com/xprabhudayal/grand-plaza-monorepo) : hotel concierge agent based on pipecat + langgraph 
+- [career-scout](https://github.com/xprabhudayal/career-scout) : voice AI that hunts jobs on the internet, in real time
+- [prada-llm](https://github.com/xprabhudayal/prada-llm) : fine-tuned a reasoning LLM to replicate my writing style
+- [xadmin](https://github.com/xprabhudayal/xadmin) : Telegram bot with reverse shell + RCE via the Telegram API
+
+---
+
+More about me @ [xpdv.tech](https://xpdv.tech) 
