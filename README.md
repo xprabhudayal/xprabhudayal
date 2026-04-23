@@ -18,5 +18,4 @@ My top projects :
 
 ---
 
-Email :  [hi@aipdv.com](mailto:hi@aipdv.com) <br>
-Web : [aipdv.com](https://aipdv.com)
+Email :  [hi@aipdv.com](mailto:hi@aipdv.com)
