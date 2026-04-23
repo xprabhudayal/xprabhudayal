@@ -18,4 +18,5 @@ My top projects :
 
 ---
 
-More about me @ [xpdv.tech](https://xpdv.tech) 
+Email :  [hi@aipdv.com](mailto:hi@aipdv.com) 
+Web : [aipdv.com](aipdv.com)
